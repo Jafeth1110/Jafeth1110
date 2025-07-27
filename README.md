@@ -68,7 +68,7 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="GitHub" height="50" width="50" />
   </a>
   <a href="mailto:jafethespinoz@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982606-d5b802d4-c0c6-4073-a2d3-bb4d1f8dd46b.png" alt="Gmail" height="50" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://www.instagram.com/jafeth1110/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
