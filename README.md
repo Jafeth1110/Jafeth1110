@@ -21,7 +21,7 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 ### 📘 Summary
 
 - 🎓 I’m currently studying **System Engineering** at [Universidad Nacional de Costa Rica](https://www.una.ac.cr/), expected graduation 2026  
-- 💼 I’ve worked in **software development and customer service** at Unión Cantonal de Guatuso (Remote)  
+- 💼 I’ve worked in **software development** at Unión Cantonal de Guatuso (Remote)  
 - 🧠 Passionate about **problem-solving** and **quality code**  
 - 🤝 Strong in **teamwork**, willing to **learn and grow**  
 - 💬 Ask me about **C++, Python, Java, JavaScript, React, Node.js, .NET, C#, Laravel**  
