@@ -24,7 +24,7 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 - 💼 I’ve worked in **software development and customer service** at Unión Cantonal de Guatuso (Remote)  
 - 🧠 Passionate about **problem-solving** and **quality code**  
 - 🤝 Strong in **teamwork**, willing to **learn and grow**  
-- 💬 Ask me about **C++, Git, Databases, Software Architecture, Java, Javascript, Python, .Net, C#, React, Laravel, Angular, php, Ionic, Firebase, TypeScript**  
+- 💬 Ask me about **C++, Git, Databases, Software Architecture, Java, Javascript, Python, .Net, C#, React, Laravel, Angular, php, Ionic, Firebase, TypeScript, AndroidStudio, Azure, Bootstrap, css, discord, docker, eclipse, Github, gmail, html, Instagram, Linkedin, MySql, NodeJS, Postman, VSCode**  
 - 📫 Reach me at **jafethespinoz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/)  
 - 🌐 [GitHub Profile](https://github.com/Jafeth1110)
 
