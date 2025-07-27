@@ -18,7 +18,7 @@ I love solving problems, working on real-life applications, and learning continu
 I'm a team player with excellent communication skills, and I enjoy transforming complex requirements into simple, elegant solutions.  
 Currently, I'm looking for opportunities — even part-time — to gain industry experience and grow professionally.
 
-📄 You can check my **resume** here: [My Resume (PDF)](https://github.com/Jafeth1110/Jafeth1110/blob/main/assets/doc/Cristian_Jafeth_Peña_Espinoza_Curriculum.pdf)
+📄 [Download My CV](https://github.com/Jafeth1110/Jafeth1110/raw/main/Cristian_Jafeth_Peña_Espinoza_Curriculum.pdf)
 
 ---
 
