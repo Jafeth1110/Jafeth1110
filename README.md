@@ -30,6 +30,16 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 
 ---
 
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Sistema de Gestión de Actas](https://github.com/Jafeth1110/actas-ucg) | Software para la gestión de actas, reportes económicos y promoción de asociaciones. Desarrollado para la Unión Cantonal de Guatuso. | C++, MVC, Binarios |
+| [Music Playlist App](https://github.com/Jafeth1110/music-playlist) | Aplicación de consola para administrar canciones con listas doblemente enlazadas circulares. | C++, Estructuras de Datos |
+| [Tienda Virtual](https://github.com/Jafeth1110/tienda-virtual) | Simulación de compras en línea con base de datos y autenticación. | PHP, MySQL, Bootstrap |
+
+---
+
 ### 🛠️ Technologies & Tools
 
 <p align="center">
@@ -43,11 +53,10 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jafeth1110&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafeth1110&theme=dark&hide_border=false" />
-  <br><br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jafeth1110&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jafeth1110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jafeth1110&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" />
+  <br><br><br><br><br><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafeth1110&theme=chartreuse-dark&hide_border=false" />
 </p>
 
 <div align="center">
