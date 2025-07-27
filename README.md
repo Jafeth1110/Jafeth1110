@@ -61,17 +61,17 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
   <a href="https://github.com/Jafeth1110" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="gitHub" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50" />
   </a>
   <a href="mailto:jafethespinoz@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" />
   </a>
   <a href="https://www.instagram.com/jafeth1110/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50" />
   </a>
 </p>
 
