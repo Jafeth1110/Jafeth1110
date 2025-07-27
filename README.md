@@ -30,13 +30,27 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 
 ---
 
-### 📂 Featured Projects
+### 📂 My Repositories
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Sistema de Gestión de Actas](https://github.com/Jafeth1110/actas-ucg) | Software para la gestión de actas, reportes económicos y promoción de asociaciones. Desarrollado para la Unión Cantonal de Guatuso. | C++, MVC, Binarios |
-| [Music Playlist App](https://github.com/Jafeth1110/music-playlist) | Aplicación de consola para administrar canciones con listas doblemente enlazadas circulares. | C++, Estructuras de Datos |
-| [Tienda Virtual](https://github.com/Jafeth1110/tienda-virtual) | Simulación de compras en línea con base de datos y autenticación. | PHP, MySQL, Bootstrap |
+<div>
+  <p align="center">
+	<a href="https://github.com/Jafeth1110/ProyectoBDGymSPA">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jafeth1110&repo=ProyectoBDGymSPA&theme=chartreuse-dark" alt="Proyecto BD Gym SPA" />
+    	</a>
+	<a href="https://github.com/Jafeth1110/ProyectoBDGymApi">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jafeth1110&repo=ProyectoBDGymApi&theme=chartreuse-dark" alt="Proyecto BD Gym API" />
+    	</a>
+    	<a href="https://github.com/Ogiwara-unu/rent-spa">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=rent-spa&theme=chartreuse-dark" alt="Rent SPA (Contributor)" />
+    	</a>
+    	<a href="https://github.com/Ogiwara-unu/renta_api">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=renta_api&theme=chartreuse-dark" alt="Renta API (Contributor)" />
+    	</a>
+    	<a href="https://github.com/Ogiwara-unu/SafeSteps">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=SafeSteps&theme=chartreuse-dark" alt="SafeSteps (Contributor)" />
+    	</a>
+  </p>
+</div>
 
 ---
 
