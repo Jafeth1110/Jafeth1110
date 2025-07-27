@@ -3,10 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Cristian Jafeth Peña Espinoza</h1>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
 <h2 align="center">Turning needs into software solutions</h2>
 
 ---
@@ -72,14 +68,6 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" />
   </a>
 </p>
-
----
-
-### 📈 Profile Views
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jafeth1110&icon=3&color=6" />
-</div>
 
 ---
 
