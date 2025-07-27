@@ -24,9 +24,19 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 - 💼 I’ve worked in **software development and customer service** at Unión Cantonal de Guatuso (Remote)  
 - 🧠 Passionate about **problem-solving** and **quality code**  
 - 🤝 Strong in **teamwork**, willing to **learn and grow**  
-- 💬 Ask me about **C++, Git, Databases, Software Architecture, Java, Javascript, Python, .Net, C#, React, Laravel, Angular, php, Ionic, Firebase, TypeScript, AndroidStudio, Azure, Bootstrap, css, discord, docker, eclipse, Github, gmail, html, Instagram, Linkedin, MySql, NodeJS, Postman, VSCode**  
-- 📫 Reach me at **jafethespinoz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/)  
-- 🌐 [GitHub Profile](https://github.com/Jafeth1110)
+- 💬 Ask me about **C++, Python, Java, JavaScript, React, Node.js, .NET, C#, Laravel**  
+- 📫 Reach me at **jafethespinoz@gmail.com**  
+- 🌐 [GitHub Profile](https://github.com/Jafeth1110) | [LinkedIn](https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/)
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,cs,dotnet,js,ts,react,angular,nodejs,laravel,php,html,css,bootstrap,firebase,mysql,sqlite,git,github,linux,vscode,postman,docker,azure,androidstudio" />
+  </a>
+</p>
 
 ---
 
@@ -48,24 +58,20 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 
 ---
 
-### ⚙️ Technologies I Work With
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,git,mysql,linux,vscode,html,css,js,react,nodejs,py,postman" />
-  </a>
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://github.com/Jafeth1110" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" />
+  <a href="https://github.com/Jafeth1110" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="GitHub" height="50" width="50" />
+  </a>
+  <a href="mailto:jafethespinoz@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982606-d5b802d4-c0c6-4073-a2d3-bb4d1f8dd46b.png" alt="Gmail" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/jafeth1110/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
   </a>
 </p>
 
