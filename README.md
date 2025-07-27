@@ -53,10 +53,12 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jafeth1110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jafeth1110&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" />
-  <br><br><br><br><br><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafeth1110&theme=chartreuse-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jafeth1110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jafeth1110&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafeth1110&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <div align="center">
