@@ -64,22 +64,9 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 
 ---
 
-### 📊 GitHub Stats & Trophies
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jafeth1110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jafeth1110&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jafeth1110&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" height="165" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Jafeth1110&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
 
 ---
 
