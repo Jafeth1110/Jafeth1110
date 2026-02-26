@@ -1,32 +1,32 @@
 <!--horizontal divider(gradiant)-->
+<div align="center">
+	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm Cristian Jafeth Peña Espinoza</h1>
+### Hey, I´m Cristian Jafeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h2 align="center">Turning needs into software solutions</h2>
+</div>
 
 ---
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-### 👨‍💻 About Me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I'm a **System Engineering student** from Costa Rica with a strong focus on practical and efficient software development.  
-I love solving problems, working on real-life applications, and learning continuously.  
-I'm a team player with excellent communication skills, and I enjoy transforming complex requirements into simple, elegant solutions.  
+I'm a System Engineering student from Costa Rica with a strong focus on practical and efficient software development.
+I love solving problems, working on real-life applications, and learning continuously.
+I'm a team player with excellent communication skills, and I enjoy transforming complex requirements into simple, elegant solutions.
 Currently, I'm looking for opportunities — even part-time — to gain industry experience and grow professionally.
 
-📄 [Download My CV](https://github.com/Jafeth1110/Jafeth1110/raw/main/Cristian_Jafeth_Peña_Espinoza_Curriculum.pdf)
+<br><br>
 
----
-
-### 📘 Summary
-
-- 🎓 I’m currently studying **System Engineering** at [Universidad Nacional de Costa Rica](https://www.una.ac.cr/), expected graduation 2026  
-- 💼 I’ve worked in **software development** at Unión Cantonal de Guatuso (Remote)  
-- 🧠 Passionate about **problem-solving** and **quality code**  
-- 🤝 Strong in **teamwork**, willing to **learn and grow**  
-- 💬 Ask me about **C++, Python, Java, JavaScript, React, Node.js, .NET, C#, Laravel**  
-- 📫 Reach me at **jafethespinoz@gmail.com**  
-- 🌐 [GitHub Profile](https://github.com/Jafeth1110) | [LinkedIn](https://www.linkedin.com/in/cristian-jafeth-pe%C3%B1a-espinoza-75ba78292/)
+- :school: I am a `Junior` at [Computer School](https://www.directorio.una.ac.cr/?wpbdp_listing=mt-informatica-escuela) at [National University of Costa Rica](https://www.una.ac.cr/).
+- :technologist: I’ve worked in `software development` at Unión Cantonal de Guatuso (Remote).
+- :computer: Passionate about `problem-solving` and `quality code`.
+- :student: I’m currently studying `System Engineering` and soon i´ll get my bachelor´s degree.
+- :nerd_face: Always ready to `learn new things`.
+- :boom: Some of my skills `C++`, `Python`, `Java`, `Javascript`, `React`, `Laravel`, `Etc`.
+- :thinking: I’m currently open for a new `job opportunity`, This is [MY RESUME](https://github.com/Jafeth1110/Jafeth1110/raw/main/Cristian_Jafeth_Peña_Espinoza_Curriculum.pdf).
+<br>
 
 ---
 
@@ -53,8 +53,8 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 </div>
 
 ---
-
-### 🛠️ Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -101,7 +101,5 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">Credit: Cristian Jafeth Peña Espinoza • Last updated: July 2025</p>
