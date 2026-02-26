@@ -73,6 +73,14 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 </a>
 </p>
 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jafeth1110&theme=github_dark)
+  
+ </div>
+
 ---
 
 ### 🤝 Connect With Me
