@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -105,3 +105,9 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 ---
 
 <p align="center">Credit: Cristian Jafeth Peña Espinoza • Last updated: July 2025</p>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&section=footer" />
+</div>
+
+
