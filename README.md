@@ -27,7 +27,7 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 - :student: I’m currently studying `System Engineering` and soon i´ll get my bachelor´s degree.
 - :nerd_face: Always ready to `learn new things`.
 - :boom: Some of my skills `C++`, `Python`, `Java`, `Javascript`, `React`, `Laravel`, `Etc`.
-- :thinking: I’m currently open for a new `job opportunity`, This is [MY RESUME](https://github.com/Jafeth1110/Jafeth1110/raw/main/Cristian_Jafeth_Peña_Espinoza_Curriculum.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, This is [MY RESUME](https://github.com/Jafeth1110/Jafeth1110/raw/main/Cristian_Jafeth_Resume.pdf).
 <br>
 
 ---
