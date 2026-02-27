@@ -5,7 +5,7 @@
 <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-### Hey, I´m Cristian Jafeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey , I´m Cristian Jafeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
 </div>
 
@@ -32,29 +32,31 @@ Currently, I'm looking for opportunities — even part-time — to gain industry
 
 ---
 
-### 📂 My Repositories
 
-<div>
-  <p align="center">
-	<a href="https://github.com/Jafeth1110/ProyectoBDGymSPA">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jafeth1110&repo=ProyectoBDGymSPA&theme=chartreuse-dark" alt="Proyecto BD Gym SPA" />
-    	</a>
-	<a href="https://github.com/Jafeth1110/ProyectoBDGymApi">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jafeth1110&repo=ProyectoBDGymApi&theme=chartreuse-dark" alt="Proyecto BD Gym API" />
-    	</a>
-    	<a href="https://github.com/Ogiwara-unu/rent-spa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=rent-spa&theme=chartreuse-dark" alt="Rent SPA (Contributor)" />
-    	</a>
-    	<a href="https://github.com/Ogiwara-unu/renta_api">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=renta_api&theme=chartreuse-dark" alt="Renta API (Contributor)" />
-    	</a>
-    	<a href="https://github.com/Ogiwara-unu/SafeSteps">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ogiwara-unu&repo=SafeSteps&theme=chartreuse-dark" alt="SafeSteps (Contributor)" />
-    	</a>
-  </p>
-</div>
+
+
+### 📂 My Repositories and kitties 🐈
+
+<table border="0">
+  <tr>
+    <td style="vertical-align: top;" width="60%">
+
+  - [Proyecto BD Gym SPA](https://github.com/Jafeth1110/ProyectoBDGymSPA)  
+  - [Proyecto BD Gym API](https://github.com/Jafeth1110/ProyectoBDGymApi)  
+  - [Rent SPA (Contributor)](https://github.com/Ogiwara-unu/rent-spa)  
+  - [Renta API (Contributor)](https://github.com/Ogiwara-unu/renta_api)  
+  - [SafeSteps (Contributor)](https://github.com/Ogiwara-unu/SafeSteps)  
+
+    </td>
+    <td align="right" style="vertical-align: top;" width="40%">
+      <img src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
 ---
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
